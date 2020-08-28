@@ -8,10 +8,8 @@ C:\Cursos\Curso_C#.NET\Udemy\Programas\VendasWebMvc\VendasWebMvc\bin\Debug\netco
 C:\Cursos\Curso_C#.NET\Udemy\Programas\VendasWebMvc\VendasWebMvc\bin\Debug\netcoreapp2.1\VendasWebMvc.pdb
 C:\Cursos\Curso_C#.NET\Udemy\Programas\VendasWebMvc\VendasWebMvc\bin\Debug\netcoreapp2.1\VendasWebMvc.Views.dll
 C:\Cursos\Curso_C#.NET\Udemy\Programas\VendasWebMvc\VendasWebMvc\bin\Debug\netcoreapp2.1\VendasWebMvc.Views.pdb
-C:\Cursos\Curso_C#.NET\Udemy\Programas\VendasWebMvc\VendasWebMvc\obj\Debug\netcoreapp2.1\VendasWebMvc.csprojAssemblyReference.cache
 C:\Cursos\Curso_C#.NET\Udemy\Programas\VendasWebMvc\VendasWebMvc\obj\Debug\netcoreapp2.1\VendasWebMvc.AssemblyInfoInputs.cache
 C:\Cursos\Curso_C#.NET\Udemy\Programas\VendasWebMvc\VendasWebMvc\obj\Debug\netcoreapp2.1\VendasWebMvc.AssemblyInfo.cs
-C:\Cursos\Curso_C#.NET\Udemy\Programas\VendasWebMvc\VendasWebMvc\obj\Debug\netcoreapp2.1\VendasWebMvc.csproj.CoreCompileInputs.cache
 C:\Cursos\Curso_C#.NET\Udemy\Programas\VendasWebMvc\VendasWebMvc\obj\Debug\netcoreapp2.1\VendasWebMvc.RazorAssemblyInfo.cache
 C:\Cursos\Curso_C#.NET\Udemy\Programas\VendasWebMvc\VendasWebMvc\obj\Debug\netcoreapp2.1\VendasWebMvc.RazorAssemblyInfo.cs
 C:\Cursos\Curso_C#.NET\Udemy\Programas\VendasWebMvc\VendasWebMvc\obj\Debug\netcoreapp2.1\VendasWebMvc.TagHelpers.input.cache
@@ -36,3 +34,6 @@ C:\Cursos\Curso_C#.NET\Udemy\Programas\VendasWebMvc\VendasWebMvc\obj\Debug\netco
 C:\Cursos\Curso_C#.NET\Udemy\Programas\VendasWebMvc\VendasWebMvc\obj\Debug\netcoreapp2.1\VendasWebMvc.csproj.CopyComplete
 C:\Cursos\Curso_C#.NET\Udemy\Programas\VendasWebMvc\VendasWebMvc\obj\Debug\netcoreapp2.1\VendasWebMvc.Properties.Resources.resources
 C:\Cursos\Curso_C#.NET\Udemy\Programas\VendasWebMvc\VendasWebMvc\obj\Debug\netcoreapp2.1\VendasWebMvc.csproj.GenerateResource.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\VendasWebMvc\VendasWebMvc\obj\Debug\netcoreapp2.1\VendasWebMvc.csprojAssemblyReference.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\VendasWebMvc\VendasWebMvc\obj\Debug\netcoreapp2.1\VendasWebMvc.csproj.CoreCompileInputs.cache
+C:\Cursos\Curso_C#.NET\Udemy\Programas\VendasWebMvc\VendasWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departamentos\View.cshtml.g.cs
